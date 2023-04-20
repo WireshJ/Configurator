@@ -1,51 +1,86 @@
-
 # Change Log
-All notable changes to this project will be documented in this file.
- 
-The format is based on [Keep a Changelog](http://keepachangelog.com/)
-and this project adheres to [Semantic Versioning](http://semver.org/).
- 
-## [Unreleased] - yyyy-mm-dd
- 
-Here we write upgrading notes for brands. It's a team effort to make them as
-straightforward as possible.
+All notable changes to for the FortiConfigurator will be documented in this file.
+
+## [V2023.4.1] - 20-04-2023
  
 ### Added
-- [PROJECTNAME-XXXX](http://tickets.projectname.com/browse/PROJECTNAME-XXXX)
-  MINOR Ticket title goes here.
-- [PROJECTNAME-YYYY](http://tickets.projectname.com/browse/PROJECTNAME-YYYY)
-  PATCH Ticket title goes here.
- 
+
+**Fortigate 40F Template:**
+
+- ADVPN zone
+- Firewall policy ADVPN -> VLAN50
+- Firewall polciy VLAN50 -> ADVPN
+- NAC policy FortiAP IoT
+
+**Fortigate 60F Template:**
+
+- ADVPN zone
+- Firewall policy ADVPN -> VLAN50
+- Firewall polciy VLAN50 -> ADVPN
+- NAC policy FortiAP IoT
+
+**FortiConfigurator:**
+
+- ChangeLog functionality
+   
 ### Changed
- 
+
+**Fortigate 40F Template:**
+
+- Upgraded the template from FortiOS 6.4.11 to FortiOS 6.4.12
+- Deleted BGP advertisement for VLAN20
+- Deleted BGP advertisement for VLAN30
+- Deleted firewall policy VLAN20 -> DC01
+- Deleted firewall policy DC01 -> VLAN20
+- Deleted firewall policy VLAN30 -> DC01
+- Deleted firewall policy DC01 -> VLAN30
+
+**Fortigate 60F Template:**
+
+- Upgraded the template from FortiOS 6.4.11 to FortiOS 6.4.12
+- Deleted BGP advertisement for VLAN20
+- Deleted BGP advertisement for VLAN30
+- Deleted firewall policy VLAN20 -> DC01
+- Deleted firewall policy DC01 -> VLAN20
+- Deleted firewall policy VLAN30 -> DC01
+- Deleted firewall policy DC01 -> VLAN30
+
+
+**FortiConfigurator:**
+
+- Version format changed from version 1.X to yyyy.m.(release)
+
 ### Fixed
- 
-## [1.2.4] - 2017-03-15
-  
-Here we would have the update steps for 1.2.4 for people to follow.
- 
-### Added
- 
-### Changed
-  
-- [PROJECTNAME-ZZZZ](http://tickets.projectname.com/browse/PROJECTNAME-ZZZZ)
-  PATCH Drupal.org is now used for composer.
- 
-### Fixed
- 
-- [PROJECTNAME-TTTT](http://tickets.projectname.com/browse/PROJECTNAME-TTTT)
-  PATCH Add logic to runsheet teaser delete to delete corresponding
-  schedule cards.
- 
-## [1.2.3] - 2017-03-14
+
+**Fortigate 40F Template:**
+
+- BGP advertisement for VLAN50
+
+**Fortigate 60F Template:**
+
+- BGP advertisement for VLAN50
+
+## [V1.2] - xx-xx-2022
  
 ### Added
    
 ### Changed
  
 ### Fixed
+
+## [V1.1] - xx-xx-2022
  
-- [PROJECTNAME-UUUU](http://tickets.projectname.com/browse/PROJECTNAME-UUUU)
-  MINOR Fix module foo tests
-- [PROJECTNAME-RRRR](http://tickets.projectname.com/browse/PROJECTNAME-RRRR)
-  MAJOR Module foo's timeline uses the browser timezone for date resolution 
+### Added
+   
+### Changed
+ 
+### Fixed
+
+## [V1.0] - xx-xx-2022
+ 
+### Added
+   
+### Changed
+ 
+### Fixed
+
