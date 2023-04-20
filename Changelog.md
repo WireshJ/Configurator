@@ -52,6 +52,7 @@ All notable changes to for the FortiConfigurator will be documented in this file
 **FortiConfigurator:**
 
 - Version format changed from version 1.X to yyyy.m.(release)
+- Small layout changes
 
 ### Fixed
 
