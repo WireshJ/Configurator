@@ -21,7 +21,10 @@ All notable changes to for the FortiConfigurator will be documented in this file
 
 **FortiConfigurator:**
 
-- ChangeLog functionality
+- Changelog functionality
+- Help Functionality
+- Feedback functionality
+- Exit functionality
    
 ### Changed
 
