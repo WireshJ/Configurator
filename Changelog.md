@@ -1,5 +1,5 @@
 # Changelog
-All notable changes to for the FortiConfigurator will be documented in this file.
+All notable changes to for the configurator will be documented in this file.
 
 ## [V2023.4.1] - 20-04-2023
  
