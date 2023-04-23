@@ -48,11 +48,16 @@ All notable changes to for the configurator will be documented in this file.
 - Deleted firewall policy VLAN30 -> DC01
 - Deleted firewall policy DC01 -> VLAN30
 
-
 **FortiConfigurator:**
 
 - Version format changed from version 1.X to yyyy.m.(release)
 - Small layout changes
+
+**Follow-Me: (Module 5)**
+
+- Deleted SQ5 Phase2's in Site-to-Site tunnel
+- Deleted SQ5 static route
+- Deleted SQ5 information from Excel request Site-to-Site form 
 
 ### Fixed
 
