@@ -9,20 +9,20 @@ All notable changes to for the configurator will be documented in this file.
 
 - ADVPN zone
 - Firewall policy ADVPN -> VLAN50
-- Firewall polciy VLAN50 -> ADVPN
+- Firewall policy VLAN50 -> ADVPN
 - NAC policy FortiAP IoT
 
 **Fortigate 60F Template:**
 
 - ADVPN zone
 - Firewall policy ADVPN -> VLAN50
-- Firewall polciy VLAN50 -> ADVPN
+- Firewall policy VLAN50 -> ADVPN
 - NAC policy FortiAP IoT
 
 **FortiConfigurator:**
 
 - Changelog functionality
-- Help Functionality
+- Help functionality
 - Feedback functionality
 - Exit functionality
    
