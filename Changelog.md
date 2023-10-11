@@ -1,6 +1,23 @@
 # Changelog
 All notable changes to for the configurator will be documented in this file.
 
+## [V2023.10.1] - 11-10-2023
+The "Swiss Army knife" (FortiConfigurator) for maintenance and configurations, is getting more advanced with the integration of the long awaited FortiTransfer.
+
+### Added
+
+**FortTransfer**
+
+### Changed
+
+**FortiConfigurator**
+
+- Small layout changes
+
+### Fixed
+
+No fixes where made in this version of the FortiConfigurator
+
 ## [V2023.4.1] - 20-04-2023
  
 ### Added
