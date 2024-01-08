@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to for the configurator will be documented in this file.
 
-## [V2024.1.1] - 11-10-2023
+## [V2024.1.1] - 08-01-2024
 The "Swiss Army knife" (FortiConfigurator) for maintenance and configurations, is getting more advanced with the integration of the long awaited FortiCompliancer.
 
 ### Added
