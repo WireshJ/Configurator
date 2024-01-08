@@ -1,12 +1,31 @@
 # Changelog
 All notable changes to for the configurator will be documented in this file.
 
+## [V2024.1.1] - 11-10-2023
+The "Swiss Army knife" (FortiConfigurator) for maintenance and configurations, is getting more advanced with the integration of the long awaited FortiCompliancer.
+
+### Added
+
+**FortiCompliancer**
+
+### Changed
+
+**FortiConfigurator**
+
+- Small layout changes
+
+### Fixed
+
+**S2S KM**
+
+- Instant crash has been fixed by compiling with the latest packeges. 
+
 ## [V2023.10.1] - 11-10-2023
 The "Swiss Army knife" (FortiConfigurator) for maintenance and configurations, is getting more advanced with the integration of the long awaited FortiTransfer.
 
 ### Added
 
-**FortTransfer**
+**FortiTransfer**
 
 ### Changed
 
